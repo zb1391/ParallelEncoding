@@ -1,0 +1,5 @@
+This is my final project for Parallel and Distributed Programming 332:451
+
+This project uses FFMPEG and MPI libraries to perform MPEG-1 compression on video files.
+
+Details about the project's implementation can be found in report.pdf
